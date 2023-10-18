@@ -1,5 +1,5 @@
 # Hedging-LINGO
-Linear and Non-Linear Programming Reservoir Operation Hedging with LINGO Language Programming
+Linear and Non-Linear Programming Reservoir Operation Hedging within LINGO Language Programming
 
 Reservoir operation hedging rule optimized with LINGO for linear and non-linear programming (LP and NLP).
 
